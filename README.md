@@ -1,4 +1,4 @@
-Booking.com (Hotel Search Automation Bot)
+<h1>Booking.com (Hotel Search Automation Bot)</h1>
 
 This Web Automation Bot is built using Selenium and Python, featuring a clean and structured class-based architecture for maintainability and scalability.
 
